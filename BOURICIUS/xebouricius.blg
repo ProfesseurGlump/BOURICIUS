@@ -1,0 +1,22 @@
+[0] Config.pm:318> INFO - This is Biber 1.8
+[1] Config.pm:321> INFO - Logfile is 'xebouricius.blg'
+[146] biber-darwin:275> INFO - === Jeu avr 30, 2015, 00:57:15
+[147] Biber.pm:333> INFO - Reading 'xebouricius.bcf'
+[287] Biber.pm:630> INFO - Found 47 citekeys in bib section 0
+[327] Biber.pm:3053> INFO - Processing section 0
+[362] Biber.pm:3190> INFO - Looking for bibtex format file 'MaBiblio.bib' for section 0
+[369] bibtex.pm:937> INFO - Decoding LaTeX character macros into UTF-8
+[376] bibtex.pm:812> INFO - Found BibTeX data source 'MaBiblio.bib'
+[431] Utils.pm:169> WARN - I didn't find a database entry for 'herath07:_real_power_peopl' (section 0)
+[431] Utils.pm:169> WARN - I didn't find a database entry for 'sunstein05:_why_societ_need_dissen' (section 0)
+[431] Utils.pm:169> WARN - I didn't find a database entry for 'manin05:_democ_delib' (section 0)
+[432] Utils.pm:169> WARN - I didn't find a database entry for 'fishkin09:_when_peopl_speak' (section 0)
+[432] Utils.pm:169> WARN - I didn't find a database entry for 'gastil12:_makin_direc_democ_delib_random_assem' (section 0)
+[432] Utils.pm:169> WARN - I didn't find a database entry for 'koriat12:_when_are_two_heads_better' (section 0)
+[432] Utils.pm:169> WARN - I didn't find a database entry for 'surowiecki04:_wisdom_crowd' (section 0)
+[433] Utils.pm:169> WARN - I didn't find a database entry for 'aquino09:_testin_social_cognit_model_moral_behav' (section 0)
+[621] Biber.pm:2939> INFO - Overriding locale 'fr_FR.UTF-8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
+[622] Biber.pm:2945> INFO - Sorting 'entry' list 'nty' keys
+[887] bbl.pm:482> INFO - Writing 'xebouricius.bbl' with encoding 'UTF-8'
+[893] bbl.pm:555> INFO - Output to xebouricius.bbl
+[894] Biber.pm:105> INFO - WARNINGS: 8

@@ -1,0 +1,37 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\select@language {french}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1}Démocratie athénienne réinterprétée}{2}{section.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.1}Modèle athénien : la démocratie représentative non-électorale.}{2}{subsection.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.2}La question de l'échelle}{6}{subsection.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.3}Les corps multiples}{7}{subsection.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2}Propositions modernes de tirage au sort et leurs problèmes}{9}{section.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1}Propositions modernes de tirage au sort}{9}{subsection.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2}Motivation à participer}{11}{subsection.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3}Cinq dilemnes de conception de tirage au sort}{12}{subsection.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3}Une proposition pour un système législatif basé sur le tirage au sort}{14}{section.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1}Aperçu}{14}{subsection.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2}Configuration de l'agenda (Conseil de l'Agenda et des pétitions)}{14}{subsection.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3}\'Elaboration des projets (groupes d'intérêt)}{15}{subsection.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.4}Examen des projets de lois (commissions)}{16}{subsection.3.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.5}Vote sur les projets de lois (jurys politiques)}{19}{subsection.3.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.6}\'Elaboration des règles de la procédure (Conseil des règles)}{21}{subsection.3.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.7}Application des règles (Conseil de surveillance)}{21}{subsection.3.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4}Conclusion}{22}{section.4}

@@ -1,0 +1,24 @@
+[0] Config.pm:318> INFO - This is Biber 1.8
+[1] Config.pm:321> INFO - Logfile is 'bouricius.blg'
+[149] biber-darwin:275> INFO - === Tue Apr 28, 2015, 20:52:04
+[149] Biber.pm:333> INFO - Reading 'bouricius.bcf'
+[283] Biber.pm:630> INFO - Found 48 citekeys in bib section 0
+[325] Biber.pm:3053> INFO - Processing section 0
+[359] Biber.pm:3190> INFO - Looking for bibtex format file 'MaBiblio.bib' for section 0
+[367] bibtex.pm:937> INFO - Decoding LaTeX character macros into UTF-8
+[374] bibtex.pm:812> INFO - Found BibTeX data source 'MaBiblio.bib'
+[428] Utils.pm:169> WARN - I didn't find a database entry for 'hansen99' (section 0)
+[428] Utils.pm:169> WARN - I didn't find a database entry for 'herath07:_real_power_peopl' (section 0)
+[428] Utils.pm:169> WARN - I didn't find a database entry for 'sunstein05:_why_societ_need_dissen' (section 0)
+[429] Utils.pm:169> WARN - I didn't find a database entry for 'manin05:_democ_delib' (section 0)
+[429] Utils.pm:169> WARN - I didn't find a database entry for 'fishkin09:_when_peopl_speak' (section 0)
+[429] Utils.pm:169> WARN - I didn't find a database entry for 'gastil12:_makin_direc_democ_delib_random_assem' (section 0)
+[430] Utils.pm:169> WARN - I didn't find a database entry for 'koriat12:_when_are_two_heads_better' (section 0)
+[430] Utils.pm:169> WARN - I didn't find a database entry for 'surowiecki04:_wisdom_crowd' (section 0)
+[430] Utils.pm:169> WARN - I didn't find a database entry for 'aquino09:_testin_social_cognit_model_moral_behav' (section 0)
+[613] Biber.pm:2939> INFO - Overriding locale 'en_US.UTF-8' default tailoring 'variable = shifted' with 'variable = non-ignorable'
+[614] Biber.pm:2945> INFO - Sorting 'entry' list 'nty' keys
+[614] Biber.pm:2949> INFO - No sort tailoring available for locale 'en_US.UTF-8'
+[863] bbl.pm:482> INFO - Writing 'bouricius.bbl' with encoding 'UTF-8'
+[869] bbl.pm:555> INFO - Output to bouricius.bbl
+[870] Biber.pm:105> INFO - WARNINGS: 9

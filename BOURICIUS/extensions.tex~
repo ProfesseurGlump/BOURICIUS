@@ -1,0 +1,18 @@
+\usepackage[a4paper, dvips]{geometry}
+\usepackage[utf8]{inputenc}              % encodage (utf8 est universel)
+\usepackage[T1]{fontenc}                 % type de fonte 
+\usepackage{lmodern}                     % nom de la fonte
+
+% \usepackage{fontspec}
+% \usepackage{xunicode}
+\usepackage{mathtools, amssymb}          % pour les maths
+
+
+\usepackage{array}
+\usepackage{xcolor}
+
+\usepackage[citestyle=verbose-trad2]{biblatex}
+
+\usepackage{babel}
+
+\usepackage{hyperref}

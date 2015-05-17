@@ -1,0 +1,733 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist{entry}{nty}
+    \entry{bryan03}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=0a4351e8e5ca58ec2f2943d525742beb}{Bryan}{B\bibinitperiod}{Frank}{F\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=0a4351e8e5ca58ec2f2943d525742beb}{Bryan}{B\bibinitperiod}{Frank}{F\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {University of Chicago Press}%
+      }
+      \strng{namehash}{0a4351e8e5ca58ec2f2943d525742beb}
+      \strng{fullhash}{0a4351e8e5ca58ec2f2943d525742beb}
+      \field{sortinit}{B}
+      \field{labeltitle}{Real Democracy: The New England Town Meeting and How It Works (American Politics and Political Economy Series)}
+      \field{series}{American Politics and Political Economy Series}
+      \field{title}{Real Democracy: The New England Town Meeting and How It Works (American Politics and Political Economy Series)}
+      \field{year}{2003}
+    \endentry
+    \entry{call85}{book}{}
+      \name{labelname}{2}{}{%
+        {{hash=7ed100b9ab7f643ca9cbe46d635920c2}{Callenbach}{C\bibinitperiod}{Ernest}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=1a54294df845a076f9e7ac84a8bf1c30}{Phillips}{P\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=7ed100b9ab7f643ca9cbe46d635920c2}{Callenbach}{C\bibinitperiod}{Ernest}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=1a54294df845a076f9e7ac84a8bf1c30}{Phillips}{P\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Berkeley, California}%
+      }
+      \list{publisher}{1}{%
+        {Banyan Tree Books}%
+      }
+      \strng{namehash}{49f94a153bff6aecce8875a9e8cae744}
+      \strng{fullhash}{49f94a153bff6aecce8875a9e8cae744}
+      \field{sortinit}{C}
+      \field{labeltitle}{A Citizen Legislature}
+      \field{title}{A Citizen Legislature}
+      \field{year}{1985}
+    \endentry
+    \entry{calvert12}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=01a011ffd33f403d25308683db752c1a}{Calvert}{C\bibinitperiod}{Aubin}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=ea2e5e9edee586a911983391d948349d}{E.Warren}{E\bibinitperiod}{Mark}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=01a011ffd33f403d25308683db752c1a}{Calvert}{C\bibinitperiod}{Aubin}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=ea2e5e9edee586a911983391d948349d}{E.Warren}{E\bibinitperiod}{Mark}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{1eedbce3c277350f1d7c9c63df9c93f2}
+      \strng{fullhash}{1eedbce3c277350f1d7c9c63df9c93f2}
+      \field{sortinit}{C}
+      \field{labeltitle}{Deliberative Democracy and Framing Effects: Why Frames are a Problem and How Deliberative Minipublics Might Overcome Them}
+      \field{journaltitle}{Kimmo Grönlund, André Bächtiger, and Maija Setälä, ECPR Press}
+      \field{title}{Deliberative Democracy and Framing Effects: Why Frames are a Problem and How Deliberative Minipublics Might Overcome Them}
+      \field{year}{2012}
+    \endentry
+    \entry{caplan07}{inbook}{}
+      \name{labelname}{1}{}{%
+        {{hash=b7b96cdbdf4ddbab8d3c56d9e47475b1}{Caplan}{C\bibinitperiod}{Bryan}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=b7b96cdbdf4ddbab8d3c56d9e47475b1}{Caplan}{C\bibinitperiod}{Bryan}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Princeton University Press}%
+      }
+      \strng{namehash}{b7b96cdbdf4ddbab8d3c56d9e47475b1}
+      \strng{fullhash}{b7b96cdbdf4ddbab8d3c56d9e47475b1}
+      \field{sortinit}{C}
+      \field{labeltitle}{The Myth of the Rational Voter Why Democracies Choose Bad Policies}
+      \field{chapter}{introduction}
+      \field{title}{The Myth of the Rational Voter Why Democracies Choose Bad Policies}
+      \field{year}{2007}
+    \endentry
+    \entry{cars06}{article}{}
+      \name{labelname}{2}{}{%
+        {{hash=224bb928d365fb6a2d99e36ce9ee53b1}{Carson}{C\bibinitperiod}{Lyn}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=97381ccd8ecfc664bbf032856162b375}{Hartz-Karp}{H\bibinithyphendelim K\bibinitperiod}{Janette}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=224bb928d365fb6a2d99e36ce9ee53b1}{Carson}{C\bibinitperiod}{Lyn}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=97381ccd8ecfc664bbf032856162b375}{Hartz-Karp}{H\bibinithyphendelim K\bibinitperiod}{Janette}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{11e28d3decab41e137af6a35e90e9944}
+      \strng{fullhash}{11e28d3decab41e137af6a35e90e9944}
+      \field{sortinit}{C}
+      \field{labeltitle}{Improving Public Deliberative Practice: A Comparative Analysis of Two Italian Citizens’ Jury Projects in 2006}
+      \field{journaltitle}{Journal of Public Deliberation}
+      \field{number}{1}
+      \field{title}{Improving Public Deliberative Practice: A Comparative Analysis of Two Italian Citizens’ Jury Projects in 2006}
+      \field{volume}{2}
+      \field{year}{2006}
+    \endentry
+    \entry{cars05}{inbook}{}
+      \name{labelname}{2}{}{%
+        {{hash=224bb928d365fb6a2d99e36ce9ee53b1}{Carson}{C\bibinitperiod}{Lyn}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=97381ccd8ecfc664bbf032856162b375}{Hartz-Karp}{H\bibinithyphendelim K\bibinitperiod}{Janette}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=224bb928d365fb6a2d99e36ce9ee53b1}{Carson}{C\bibinitperiod}{Lyn}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=97381ccd8ecfc664bbf032856162b375}{Hartz-Karp}{H\bibinithyphendelim K\bibinitperiod}{Janette}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{2}{%
+        {John Gastil}%
+        {Peter Levine}%
+      }
+      \strng{namehash}{11e28d3decab41e137af6a35e90e9944}
+      \strng{fullhash}{11e28d3decab41e137af6a35e90e9944}
+      \field{sortinit}{C}
+      \field{labeltitle}{The deliberative democracy handbook: strategies for effective civic engagement in the twenty-first century}
+      \field{chapter}{8}
+      \field{title}{The deliberative democracy handbook: strategies for effective civic engagement in the twenty-first century}
+      \field{year}{2005}
+    \endentry
+    \entry{crosby86}{article}{}
+      \name{labelname}{4}{}{%
+        {{hash=cefcb0dee1878eec366a260f1d993476}{Crosby}{C\bibinitperiod}{}{}{}{}{}{}}%
+        {{hash=07d6265486b22356362387c5a098ba7d}{Ned}{N\bibinitperiod}{}{}{}{}{}{}}%
+        {{hash=35693935134684129792c555ea249b64}{Kelly}{K\bibinitperiod}{Janet}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=115686784f50871c2f186809e3e47d71}{Schaefer}{S\bibinitperiod}{Paul}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=cefcb0dee1878eec366a260f1d993476}{Crosby}{C\bibinitperiod}{}{}{}{}{}{}}%
+        {{hash=07d6265486b22356362387c5a098ba7d}{Ned}{N\bibinitperiod}{}{}{}{}{}{}}%
+        {{hash=35693935134684129792c555ea249b64}{Kelly}{K\bibinitperiod}{Janet}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=115686784f50871c2f186809e3e47d71}{Schaefer}{S\bibinitperiod}{Paul}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{a2c0f7d1d80aeb2dedb14c7adfcbb40b}
+      \strng{fullhash}{6894e929c1df6ff273249e75b4c0d6b3}
+      \field{sortinit}{C}
+      \field{labeltitle}{Citizens Panels: A New Approach to Citizen Participation}
+      \field{journaltitle}{Public Administration Review}
+      \field{number}{2}
+      \field{title}{Citizens Panels: A New Approach to Citizen Participation}
+      \field{volume}{46}
+      \field{year}{1986}
+    \endentry
+    \entry{dahl70}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=c0f515b4a47ab8a34c9ac302790aa791}{Dahl}{D\bibinitperiod}{Robert\bibnamedelima A.}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=c0f515b4a47ab8a34c9ac302790aa791}{Dahl}{D\bibinitperiod}{Robert\bibnamedelima A.}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Yale University Press}%
+      }
+      \strng{namehash}{c0f515b4a47ab8a34c9ac302790aa791}
+      \strng{fullhash}{c0f515b4a47ab8a34c9ac302790aa791}
+      \field{sortinit}{D}
+      \field{labeltitle}{After the revolution? Authority in a good society}
+      \field{title}{After the revolution? Authority in a good society}
+      \field{year}{1970}
+    \endentry
+    \entry{dahl89}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=c0f515b4a47ab8a34c9ac302790aa791}{Dahl}{D\bibinitperiod}{Robert\bibnamedelima A.}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=c0f515b4a47ab8a34c9ac302790aa791}{Dahl}{D\bibinitperiod}{Robert\bibnamedelima A.}{R\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Yale University Press}%
+      }
+      \strng{namehash}{c0f515b4a47ab8a34c9ac302790aa791}
+      \strng{fullhash}{c0f515b4a47ab8a34c9ac302790aa791}
+      \field{sortinit}{D}
+      \field{labeltitle}{Democracy and its Critics}
+      \field{title}{Democracy and its Critics}
+      \field{year}{1989}
+    \endentry
+    \entry{dien95}{inbook}{}
+      \name{labelname}{2}{}{%
+        {{hash=5bab89f5a1e12e88fba792c2d3d3ebec}{Dienel}{D\bibinitperiod}{Peter\bibnamedelima C.}{P\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=d540424be462c768180a7aa88e8a7306}{Renn}{R\bibinitperiod}{Ortwin}{O\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=5bab89f5a1e12e88fba792c2d3d3ebec}{Dienel}{D\bibinitperiod}{Peter\bibnamedelima C.}{P\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=d540424be462c768180a7aa88e8a7306}{Renn}{R\bibinitperiod}{Ortwin}{O\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{e4a5a752f80e82b228cfd9928a31b69f}
+      \strng{fullhash}{e4a5a752f80e82b228cfd9928a31b69f}
+      \field{sortinit}{D}
+      \field{labeltitle}{Fairness and Competence in Citizen Participation: Technology, Risk, and Society}
+      \field{chapter}{6}
+      \field{title}{Fairness and Competence in Citizen Participation: Technology, Risk, and Society}
+      \field{volume}{10}
+      \field{year}{1995}
+    \endentry
+    \entry{dowlen08}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=198e9014733521f44ec90f5431a946e0}{Dowlen}{D\bibinitperiod}{Oliver}{O\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=198e9014733521f44ec90f5431a946e0}{Dowlen}{D\bibinitperiod}{Oliver}{O\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Charlottesville: Imprint Academic}%
+      }
+      \strng{namehash}{198e9014733521f44ec90f5431a946e0}
+      \strng{fullhash}{198e9014733521f44ec90f5431a946e0}
+      \field{sortinit}{D}
+      \field{labeltitle}{The Political Potential of Sortition: A Study of the Random Selection of Citizens for Public Office}
+      \field{series}{The luck of the draw : sortition and public policy}
+      \field{title}{The Political Potential of Sortition: A Study of the Random Selection of Citizens for Public Office}
+      \field{year}{2008}
+    \endentry
+    \entry{fischer09}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=6f2d5c9c6cec8ceffa6290e8bf6bddf2}{Fischer}{F\bibinitperiod}{Frank}{F\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=6f2d5c9c6cec8ceffa6290e8bf6bddf2}{Fischer}{F\bibinitperiod}{Frank}{F\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford: Oxford University Press}%
+      }
+      \strng{namehash}{6f2d5c9c6cec8ceffa6290e8bf6bddf2}
+      \strng{fullhash}{6f2d5c9c6cec8ceffa6290e8bf6bddf2}
+      \field{sortinit}{F}
+      \field{labeltitle}{Democracy and Expertise: Reorienting Policy Inquiry}
+      \field{title}{Democracy and Expertise: Reorienting Policy Inquiry}
+      \field{year}{2009}
+    \endentry
+    \entry{fishkin09}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=d50048bdce7355699c3615d07071ca8e}{Fishkin}{F\bibinitperiod}{James\bibnamedelima S.}{J\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=d50048bdce7355699c3615d07071ca8e}{Fishkin}{F\bibinitperiod}{James\bibnamedelima S.}{J\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{d50048bdce7355699c3615d07071ca8e}
+      \strng{fullhash}{d50048bdce7355699c3615d07071ca8e}
+      \field{sortinit}{F}
+      \field{labeltitle}{When the People Speak : Deliberative Democracy and Public Consultation}
+      \field{title}{When the People Speak : Deliberative Democracy and Public Consultation}
+      \field{year}{2009}
+    \endentry
+    \entry{gast00}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=1c87ae9362275c7d535efa40e27cae7b}{Gastil}{G\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=1c87ae9362275c7d535efa40e27cae7b}{Gastil}{G\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Berkeley: University of California Press}%
+      }
+      \strng{namehash}{1c87ae9362275c7d535efa40e27cae7b}
+      \strng{fullhash}{1c87ae9362275c7d535efa40e27cae7b}
+      \field{sortinit}{G}
+      \field{labeltitle}{By Popular Demand: Revitalizing Representative Democracy through Deliberative Elections}
+      \field{title}{By Popular Demand: Revitalizing Representative Democracy through Deliberative Elections}
+      \field{year}{2000}
+    \endentry
+    \entry{gast12}{inproceedings}{}
+      \name{labelname}{2}{}{%
+        {{hash=1c87ae9362275c7d535efa40e27cae7b}{Gastil}{G\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=28c27a36a0421c4023ee8b492ec4ec12}{Richards}{R\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=1c87ae9362275c7d535efa40e27cae7b}{Gastil}{G\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=28c27a36a0421c4023ee8b492ec4ec12}{Richards}{R\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Denver CO}%
+      }
+      \list{publisher}{1}{%
+        {American Sociological Association}%
+      }
+      \strng{namehash}{92d9b8a7d4b1cac16c446781650ba3df}
+      \strng{fullhash}{92d9b8a7d4b1cac16c446781650ba3df}
+      \field{sortinit}{G}
+      \field{labeltitle}{Making Direct Democracy Deliberative through Random Assemblies}
+      \field{booktitle}{The annual meeting of the American Sociological Association}
+      \field{title}{Making Direct Democracy Deliberative through Random Assemblies}
+      \field{year}{2012}
+    \endentry
+    \entry{goll07}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=debd775eec68bb9536e0b838904f791c}{Gollop}{G\bibinitperiod}{Leigh}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=debd775eec68bb9536e0b838904f791c}{Gollop}{G\bibinitperiod}{Leigh}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{debd775eec68bb9536e0b838904f791c}
+      \strng{fullhash}{debd775eec68bb9536e0b838904f791c}
+      \field{sortinit}{G}
+      \field{labeltitle}{Releasing Democracy: giving real power to the people}
+      \field{journaltitle}{The Flinders Journal of History and Politics}
+      \field{title}{Releasing Democracy: giving real power to the people}
+      \field{volume}{24}
+      \field{year}{2007}
+    \endentry
+    \entry{hans99}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=478fc58f0690fa7c657dd34193b7a86c}{Hansen}{H\bibinitperiod}{Mogens\bibnamedelima Herman}{M\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=478fc58f0690fa7c657dd34193b7a86c}{Hansen}{H\bibinitperiod}{Mogens\bibnamedelima Herman}{M\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {University of Oklahoma Press edition}%
+      }
+      \strng{namehash}{478fc58f0690fa7c657dd34193b7a86c}
+      \strng{fullhash}{478fc58f0690fa7c657dd34193b7a86c}
+      \field{sortinit}{H}
+      \field{labeltitle}{Athenian Democracy in the Age of Demosthenes}
+      \field{title}{Athenian Democracy in the Age of Demosthenes}
+      \field{year}{1999}
+    \endentry
+    \entry{herath07}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=578d4db798f39175b898e067bf2278fa}{Herath}{H\bibinitperiod}{R.B}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=578d4db798f39175b898e067bf2278fa}{Herath}{H\bibinitperiod}{R.B}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {University of America}%
+      }
+      \strng{namehash}{578d4db798f39175b898e067bf2278fa}
+      \strng{fullhash}{578d4db798f39175b898e067bf2278fa}
+      \field{sortinit}{H}
+      \field{labeltitle}{Real Power to the People: A Novel Appoach to Electoral Reform in British Columbia}
+      \field{title}{Real Power to the People: A Novel Appoach to Electoral Reform in British Columbia}
+      \field{year}{2007}
+    \endentry
+    \entry{landemore12}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=e9b065d0a51348054e8752832293cee0}{Landemore}{L\bibinitperiod}{Helene}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=e9b065d0a51348054e8752832293cee0}{Landemore}{L\bibinitperiod}{Helene}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{e9b065d0a51348054e8752832293cee0}
+      \strng{fullhash}{e9b065d0a51348054e8752832293cee0}
+      \field{sortinit}{L}
+      \field{labeltitle}{Why the Many Are Smarter than the Few and Why It Matters}
+      \field{journaltitle}{Journal of Public Deliberation}
+      \field{title}{Why the Many Are Smarter than the Few and Why It Matters}
+      \field{volume}{8}
+      \field{year}{2012}
+    \endentry
+    \entry{leib04}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=2cb2ae75838044ad0299694fb0084da1}{Leib}{L\bibinitperiod}{Ethan}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=2cb2ae75838044ad0299694fb0084da1}{Leib}{L\bibinitperiod}{Ethan}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {University Park}%
+      }
+      \strng{namehash}{2cb2ae75838044ad0299694fb0084da1}
+      \strng{fullhash}{2cb2ae75838044ad0299694fb0084da1}
+      \field{sortinit}{L}
+      \field{labeltitle}{Deliberative Democracy in America: A Proposal for a Popular Branch of Government}
+      \field{title}{Deliberative Democracy in America: A Proposal for a Popular Branch of Government}
+      \field{year}{2004}
+    \endentry
+    \entry{burn85}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=97380498d388667a1f34aa71257efc6e}{Burnheim}{B\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=97380498d388667a1f34aa71257efc6e}{Burnheim}{B\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{97380498d388667a1f34aa71257efc6e}
+      \strng{fullhash}{97380498d388667a1f34aa71257efc6e}
+      \field{sortinit}{L}
+      \field{labeltitle}{Is Democracy Possible? The alternative to electoral politics}
+      \field{journaltitle}{University of California Press}
+      \field{title}{Is Democracy Possible? The alternative to electoral politics}
+      \field{year}{1985}
+    \endentry
+    \entry{lorenz11}{inproceedings}{}
+      \name{labelname}{4}{}{%
+        {{hash=955098f9f3588518a8295a64a8a7c613}{Lorenz}{L\bibinitperiod}{Jan}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=63c3a01a8aaa28d583402216c2a8e341}{Rauhut}{R\bibinitperiod}{Heiko}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=25f14e1ee87a32ff7e3e4b85e1dd3ea9}{Schweitzer}{S\bibinitperiod}{Franck}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=6f85b2d8868cd1e16ae5c55cf158b6ce}{Helbing}{H\bibinitperiod}{Dirk}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{4}{}{%
+        {{hash=955098f9f3588518a8295a64a8a7c613}{Lorenz}{L\bibinitperiod}{Jan}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=63c3a01a8aaa28d583402216c2a8e341}{Rauhut}{R\bibinitperiod}{Heiko}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=25f14e1ee87a32ff7e3e4b85e1dd3ea9}{Schweitzer}{S\bibinitperiod}{Franck}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=6f85b2d8868cd1e16ae5c55cf158b6ce}{Helbing}{H\bibinitperiod}{Dirk}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=7fb31d214734a7f59933f181eec94f64}{Singer}{S\bibinitperiod}{Burton\bibnamedelima H.}{B\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{63e8cd49093670cc47dec7a5a32105c0}
+      \strng{fullhash}{ae1d4d936b4eea73ff5aae0309c69d3f}
+      \field{sortinit}{L}
+      \field{labeltitle}{How Social Influence Can Undermine the Wisdom of Crowd Effect}
+      \field{booktitle}{Proceedings of the National Academy of Sciences}
+      \field{number}{22}
+      \field{title}{How Social Influence Can Undermine the Wisdom of Crowd Effect}
+      \field{volume}{108}
+      \field{year}{2011}
+    \endentry
+    \entry{manin97}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=53330ddde0011db6cb8733d604c66e38}{Manin}{M\bibinitperiod}{Bernard}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=53330ddde0011db6cb8733d604c66e38}{Manin}{M\bibinitperiod}{Bernard}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{53330ddde0011db6cb8733d604c66e38}
+      \strng{fullhash}{53330ddde0011db6cb8733d604c66e38}
+      \field{sortinit}{M}
+      \field{labeltitle}{The Principles of Representative Government}
+      \field{title}{The Principles of Representative Government}
+      \field{year}{1997}
+    \endentry
+    \entry{matthews04}{report}{}
+      \name{labelname}{3}{}{%
+        {{hash=25bb1abdfb3634d1aa41947d2affad6c}{Matthews}{M\bibinitperiod}{Roger}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=ea4db00fbc1ff124b9e0bcf362b906e3}{Hancock}{H\bibinitperiod}{Lynn}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=c167ff04bbe9a536fdf94155ad6eeb53}{Briggs}{B\bibinitperiod}{Daniel}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{3}{}{%
+        {{hash=25bb1abdfb3634d1aa41947d2affad6c}{Matthews}{M\bibinitperiod}{Roger}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=ea4db00fbc1ff124b9e0bcf362b906e3}{Hancock}{H\bibinitperiod}{Lynn}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=c167ff04bbe9a536fdf94155ad6eeb53}{Briggs}{B\bibinitperiod}{Daniel}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \list{institution}{1}{%
+        {Center for Criminolgy Middlesex University}%
+      }
+      \strng{namehash}{0d09d93e464f6b98b4a879e9662fae01}
+      \strng{fullhash}{0d09d93e464f6b98b4a879e9662fae01}
+      \field{sortinit}{M}
+      \field{labeltitle}{Juror's perceptions, understanding, confidence and satisfation in the jury system: a study in six courts}
+      \field{month}{05}
+      \field{title}{Juror's perceptions, understanding, confidence and satisfation in the jury system: a study in six courts}
+      \field{type}{Online Report}
+      \field{year}{2004}
+    \endentry
+    \entry{ober08}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=dc9c0bd6dd6ea031be69cccfa1c25019}{Ober}{O\bibinitperiod}{Josiah}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=dc9c0bd6dd6ea031be69cccfa1c25019}{Ober}{O\bibinitperiod}{Josiah}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Princeton University Press}%
+      }
+      \strng{namehash}{dc9c0bd6dd6ea031be69cccfa1c25019}
+      \strng{fullhash}{dc9c0bd6dd6ea031be69cccfa1c25019}
+      \field{sortinit}{O}
+      \field{labeltitle}{Democracy and Knowledge: Innovation and Learning in Classical Athens}
+      \field{title}{Democracy and Knowledge: Innovation and Learning in Classical Athens}
+      \field{year}{2008}
+    \endentry
+    \entry{ober07}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=dc9c0bd6dd6ea031be69cccfa1c25019}{Ober}{O\bibinitperiod}{Josiah}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=dc9c0bd6dd6ea031be69cccfa1c25019}{Ober}{O\bibinitperiod}{Josiah}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{dc9c0bd6dd6ea031be69cccfa1c25019}
+      \strng{fullhash}{dc9c0bd6dd6ea031be69cccfa1c25019}
+      \field{sortinit}{O}
+      \field{labeltitle}{What the Ancient Greeks Can Tell Us About Democracy}
+      \field{journaltitle}{Reviews in Political Science}
+      \field{title}{What the Ancient Greeks Can Tell Us About Democracy}
+      \field{year}{2007}
+    \endentry
+    \entry{oleary06}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=2409f91aeca89fb2ea2c581c20dc6730}{O'Leary}{O\bibinitperiod}{Kevin}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=2409f91aeca89fb2ea2c581c20dc6730}{O'Leary}{O\bibinitperiod}{Kevin}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Stanford University Press}%
+      }
+      \strng{namehash}{2409f91aeca89fb2ea2c581c20dc6730}
+      \strng{fullhash}{2409f91aeca89fb2ea2c581c20dc6730}
+      \field{sortinit}{O}
+      \field{labeltitle}{Saving Democracy A Plan for Real Representation in America}
+      \field{title}{Saving Democracy A Plan for Real Representation in America}
+      \field{year}{2006}
+    \endentry
+    \entry{page07}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=d11f9d75a31e55ed78bb9aa62c89f56d}{Page}{P\bibinitperiod}{Scott\bibnamedelima E.}{S\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=d11f9d75a31e55ed78bb9aa62c89f56d}{Page}{P\bibinitperiod}{Scott\bibnamedelima E.}{S\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{d11f9d75a31e55ed78bb9aa62c89f56d}
+      \strng{fullhash}{d11f9d75a31e55ed78bb9aa62c89f56d}
+      \field{sortinit}{P}
+      \field{labeltitle}{The Difference: How The Power of Diversity Creates Better Groups, Firms, Schools, and Societies}
+      \field{journaltitle}{Journal of Economic Literature}
+      \field{title}{The Difference: How The Power of Diversity Creates Better Groups, Firms, Schools, and Societies}
+      \field{year}{2007}
+    \endentry
+    \entry{pitkin67}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=51d5cce2b302e1a5f03da0376dbfa4a5}{Pitkin}{P\bibinitperiod}{Hanna\bibnamedelima Fenichel}{H\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=51d5cce2b302e1a5f03da0376dbfa4a5}{Pitkin}{P\bibinitperiod}{Hanna\bibnamedelima Fenichel}{H\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {University of California Press}%
+      }
+      \strng{namehash}{51d5cce2b302e1a5f03da0376dbfa4a5}
+      \strng{fullhash}{51d5cce2b302e1a5f03da0376dbfa4a5}
+      \field{sortinit}{P}
+      \field{labeltitle}{The Concept of Representation}
+      \field{title}{The Concept of Representation}
+      \field{year}{1967}
+    \endentry
+    \entry{sunstein06}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=a54191f8837932a53925647560432312}{Sunstein}{S\bibinitperiod}{Cass\bibnamedelima R.}{C\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=a54191f8837932a53925647560432312}{Sunstein}{S\bibinitperiod}{Cass\bibnamedelima R.}{C\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{a54191f8837932a53925647560432312}
+      \strng{fullhash}{a54191f8837932a53925647560432312}
+      \field{sortinit}{S}
+      \field{labeltitle}{Infotopia}
+      \field{title}{Infotopia}
+      \field{year}{2006}
+    \endentry
+    \entry{surowiecki04}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=6ea62b57d4a7a5dcd57cec95621aa482}{Surowiecki}{S\bibinitperiod}{James}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=6ea62b57d4a7a5dcd57cec95621aa482}{Surowiecki}{S\bibinitperiod}{James}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Doubleday}%
+      }
+      \strng{namehash}{6ea62b57d4a7a5dcd57cec95621aa482}
+      \strng{fullhash}{6ea62b57d4a7a5dcd57cec95621aa482}
+      \field{sortinit}{S}
+      \field{labeltitle}{The Wisdom of Crowds: Why the Many are Smarter Than the Few and how Collective Wisdom Shapes Business, Economies, Societies, and Nations}
+      \field{title}{The Wisdom of Crowds: Why the Many are Smarter Than the Few and how Collective Wisdom Shapes Business, Economies, Societies, and Nations}
+      \field{year}{2004}
+    \endentry
+    \entry{sutherland08}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=2cdc98abf670576bc43710bc024876f8}{Sutherland}{S\bibinitperiod}{Keith}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=2cdc98abf670576bc43710bc024876f8}{Sutherland}{S\bibinitperiod}{Keith}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Imprint Academic}%
+      }
+      \strng{namehash}{2cdc98abf670576bc43710bc024876f8}
+      \strng{fullhash}{2cdc98abf670576bc43710bc024876f8}
+      \field{sortinit}{S}
+      \field{labeltitle}{A People's Parliament: a (revised) blueprint for a very English revolution}
+      \field{title}{A People's Parliament: a (revised) blueprint for a very English revolution}
+      \field{year}{2008}
+    \endentry
+    \entry{thompson12}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=ee77f07a4bb2aafa037a36ae70b157d9}{Thompson}{T\bibinitperiod}{Nivek\bibnamedelima K.}{N\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=ee77f07a4bb2aafa037a36ae70b157d9}{Thompson}{T\bibinitperiod}{Nivek\bibnamedelima K.}{N\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{ee77f07a4bb2aafa037a36ae70b157d9}
+      \strng{fullhash}{ee77f07a4bb2aafa037a36ae70b157d9}
+      \field{sortinit}{T}
+      \field{labeltitle}{Participatory budgeting - the Australian way}
+      \field{journaltitle}{Journal of Public Deliberation}
+      \field{title}{Participatory budgeting - the Australian way}
+      \field{volume}{8}
+      \field{year}{2012}
+    \endentry
+    \entry{warren96}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=d249601178b1e6227627f85cdfa3fa05}{Warren}{W\bibinitperiod}{Mark\bibnamedelima E.}{M\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=d249601178b1e6227627f85cdfa3fa05}{Warren}{W\bibinitperiod}{Mark\bibnamedelima E.}{M\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{d249601178b1e6227627f85cdfa3fa05}
+      \strng{fullhash}{d249601178b1e6227627f85cdfa3fa05}
+      \field{sortinit}{W}
+      \field{labeltitle}{What Should We Expect from More Democracy? Radically democratic Responses to Politics}
+      \field{journaltitle}{Political Theory}
+      \field{number}{2}
+      \field{title}{What Should We Expect from More Democracy? Radically democratic Responses to Politics}
+      \field{volume}{24}
+      \field{year}{1996}
+    \endentry
+    \entry{westen07}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=2c3140b4f1957d7fa38550b3cdb4aa57}{Westen}{W\bibinitperiod}{Drew}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=2c3140b4f1957d7fa38550b3cdb4aa57}{Westen}{W\bibinitperiod}{Drew}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Public Affairs}%
+      }
+      \strng{namehash}{2c3140b4f1957d7fa38550b3cdb4aa57}
+      \strng{fullhash}{2c3140b4f1957d7fa38550b3cdb4aa57}
+      \field{sortinit}{W}
+      \field{labeltitle}{The Political Brain: The Role of Emotion in Deciding the Fate of the Nation}
+      \field{title}{The Political Brain: The Role of Emotion in Deciding the Fate of the Nation}
+      \field{year}{2007}
+    \endentry
+    \entry{cars99}{book}{}
+      \name{labelname}{2}{}{%
+        {{hash=224bb928d365fb6a2d99e36ce9ee53b1}{Carson}{C\bibinitperiod}{Lyn}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=837cde7f4e89a57c04d3d7c11d79c868}{Martin}{M\bibinitperiod}{Brian}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=224bb928d365fb6a2d99e36ce9ee53b1}{Carson}{C\bibinitperiod}{Lyn}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=837cde7f4e89a57c04d3d7c11d79c868}{Martin}{M\bibinitperiod}{Brian}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Praeger Publisher}%
+      }
+      \strng{namehash}{53752de2cd4c4e3755642105bf9e5c2c}
+      \strng{fullhash}{53752de2cd4c4e3755642105bf9e5c2c}
+      \field{sortinit}{W}
+      \field{labeltitle}{Random selection in politics}
+      \field{title}{Random selection in politics}
+      \field{year}{1999}
+    \endentry
+    \entry{wood05}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=a6a024b65b16a7bd9a31e98cd422fad8}{Woodruff}{W\bibinitperiod}{Paul}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=a6a024b65b16a7bd9a31e98cd422fad8}{Woodruff}{W\bibinitperiod}{Paul}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{a6a024b65b16a7bd9a31e98cd422fad8}
+      \strng{fullhash}{a6a024b65b16a7bd9a31e98cd422fad8}
+      \field{sortinit}{W}
+      \field{labeltitle}{First Democracy: The Challenge of an Ancient Idea}
+      \field{title}{First Democracy: The Challenge of an Ancient Idea}
+      \field{year}{2005}
+    \endentry
+    \entry{zak10}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=77eca928d1e4df37fc8c0f130220b27d}{Zakaras}{Z\bibinitperiod}{Alex}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=77eca928d1e4df37fc8c0f130220b27d}{Zakaras}{Z\bibinitperiod}{Alex}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{77eca928d1e4df37fc8c0f130220b27d}
+      \strng{fullhash}{77eca928d1e4df37fc8c0f130220b27d}
+      \field{sortinit}{Z}
+      \field{labeltitle}{Lot and Democratic Representation: A Modest Proposal}
+      \field{journaltitle}{Blackwell Publishing}
+      \field{number}{3}
+      \field{title}{Lot and Democratic Representation: A Modest Proposal}
+      \field{volume}{17}
+      \field{year}{2010}
+    \endentry
+    \entry{ziada12}{misc}{}
+      \name{labelname}{1}{}{%
+        {{hash=69eafd8333a016db57dec60c6c7b0192}{Ziada}{Z\bibinitperiod}{Dalia}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=69eafd8333a016db57dec60c6c7b0192}{Ziada}{Z\bibinitperiod}{Dalia}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{69eafd8333a016db57dec60c6c7b0192}
+      \strng{fullhash}{69eafd8333a016db57dec60c6c7b0192}
+      \field{sortinit}{Z}
+      \field{labeltitle}{Egyptian Protestor: Candidates Don't Represent Me}
+      \field{note}{Interview on National Public Radio}
+      \field{title}{Egyptian Protestor: Candidates Don't Represent Me}
+      \field{year}{2012}
+    \endentry
+  \endsortlist
+  \missing{koriat12:_when_are_two_heads_better}
+  \missing{fishkin09:_when_peopl_speak}
+  \missing{aquino09:_testin_social_cognit_model_moral_behav}
+  \missing{gastil12:_makin_direc_democ_delib_random_assem}
+  \missing{manin05:_democ_delib}
+  \missing{hansen99}
+  \missing{herath07:_real_power_peopl}
+  \missing{sunstein05:_why_societ_need_dissen}
+  \missing{surowiecki04:_wisdom_crowd}
+\endrefsection
+\endinput
+

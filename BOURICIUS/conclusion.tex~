@@ -1,0 +1,161 @@
+% !TEX encoding = UTF-8 Unicode
+
+\section{Conclusion}
+Les principes et les pratiques de la démocratie athénienne classique
+constituent un point de départ pour la conception d'une démocratie
+moderne, qui peut être adapté à n'importe quelle taille. Le modèle
+présenté ici répond aux principes de l'égalité politique des Athéniens
+(isonomia) et la liberté de s'exprimer et de contribuer au processus
+de prise de décision démocratique (isegoria). Il capitalise sur la
+pratique athénienne par tirage au sort, en fournissant un système de
+freins et de contrepoids. Enfin, ce modèle permet de résoudre les
+dilemmes des cinq objectifs contradictoires, évoqués ci-dessus (voir le
+tableau \ref{tab1}).
+
+\begin{table}[m]
+  \caption{Résolution des dilemmes par utilisation de multiples
+corps tirés au sort}\vspace{0.2cm}
+  \begin{tabular}{*{3}{|c}|}
+    % {|>{\raggedleft\hspace{0pt}}p{15mm}%
+    %  |>{\centering\hspace{0pt}}p{15mm}%
+    %  |>{\raggedright\hspace{0pt}}p{15mm}|}      
+    \hline % LIGNE 1
+    \textbf{Premier objectif}
+    &
+    \textbf{Objectif en conflit}
+    &
+    \textbf{Résolution}
+    \\  
+    \hline % LIGNE 2
+    \begin{minipage}[c]{.33\linewidth}
+          maximiser la représentativité descriptive
+    \end{minipage}
+    &
+    \begin{minipage}[c]{.33\linewidth}
+      maximiser l'intérêt et l'engagement des membres d'un corps
+      délibérant
+    \end{minipage}
+    &
+    \begin{minipage}[c]{.33\linewidth}
+      les jurys politique maximisent la représentativité descriptive,
+      tandis que les conseils et les groupes assurent l'engagement
+    \end{minipage} 
+    \\ 
+    \hline % LIGNE 3
+    \begin{minipage}[c]{.33\linewidth}
+      rotation fréquente, élargir la participation et augmenter la
+      résistance à la corruption
+    \end{minipage}
+    &
+    \begin{minipage}[c]{.33\linewidth}
+      mandats plus longs, afin de 
+      maximiser la familiarité des participants avec les questions à
+      l'étude
+    \end{minipage}
+    &
+    \begin{minipage}[c]{.33\linewidth}
+      les jurys politique ont une rotation fréquente et une large
+      participation, tandis que les conseils et les groupes permettent
+      le développement des compétences
+    \end{minipage} 
+    \\
+    \hline % LIGNE 4
+    \begin{minipage}[c]{.33\linewidth}
+      droit garanti à chaque citoyen de participer
+    \end{minipage}
+    &
+    \begin{minipage}[c]{.33\linewidth}
+      éviter la domination par des intérêts particuliers en raison de 
+      l'auto-sélection
+    \end{minipage}
+    &
+    \begin{minipage}[c]{.33\linewidth}
+      groupes d'intérêt et pétitions permettent à
+      tout citoyen de contribuer, pendant que les Comissions d'examen,
+      et, finalement les jurys politique protègent contre la
+      distorsion de la participation
+    \end{minipage} 
+    \\
+    \hline % LIGNE 5
+    \begin{minipage}[c]{.33\linewidth}
+      maximiser la capacité de résolution de problèmes par la discussion
+      et le débat interne
+    \end{minipage}
+    &
+    \begin{minipage}[c]{.33\linewidth}
+      éviter la polarisation et la pensée de
+      groupe
+    \end{minipage}
+    &
+    \begin{minipage}[c]{.33\linewidth}
+      Conseils et groupes promeuvent et prennent la résolution de
+      problèmes alors que les jurys politique protègent à la fois contre
+      la polarisation et la pensée de groupe
+    \end{minipage} 
+    \\
+    \hline % LIGNE 6
+    \begin{minipage}[c]{.33\linewidth}
+      maximiser le pouvoir démocratique en ayant un corps délibérant de
+      larges pouvoirs fixer son propre agenda, les projets de ses
+      propres projets de loi et voter le haut ou vers le bas 
+    \end{minipage}
+    &
+    \begin{minipage}[c]{.33\linewidth}
+      éviter les décisions arbitraires qui sont trop sensibles aux
+      inclinations 
+      de quelques membres charismatiques non représentatifs dans un
+      corps alloué 
+    \end{minipage}
+    &
+    \begin{minipage}[c]{.33\linewidth}
+      les Conseils permettent un contrôle démocratique de l'agenda
+      alors que les jurys protègent contre l'influence des extrêmes et
+      individus puissants 
+    \end{minipage} 
+    \\
+    \hline
+  \end{tabular}
+  \label{tab1}
+\end{table}
+
+Ce modèle de tirage au sort est évolutif à partir d'une municipalité à
+l'autre, national ou international. Les domaines de compétence sont
+flexibles sans fin, des décisions relativement mineures jusqu'à et y
+compris les tâches législatives, à l'exclusion des
+élections. Evidement, il est à la fois pratique et prudent de
+commencer à une petite échelle, et avec un mandat limité. Ainsi, un
+accent initial sur les adoptions municipales de sens, comme cela s'est
+proudit avec le Canada Bay en Nouvelle-Galles du Sud, en Australie en
+2012 (\cite{thompson12}). Situations où les élus actuels sont
+réticents à prendre des décisions politiques 
+impopulaires (politique no-win), et pourraient être disposés à les
+transférer à des corps de citoyens désignés, sont particulièrement
+plausible pour l'adoption anticipée.   \par
+Ce modèle peut être mis en oeuvre dans une variété de façons, allant
+de petits changements progressifs à des réformes fondamentales. Par
+exemple, les éléments du modèle pourraient être utilisés pour : 
+\begin{enumerate}
+\item Face à une loi --- comme avec l'Assemblée de citoyens de
+  Colombie-Britannique 
+\item Faire toutes les lois au sein d'une zone d'émission --- par
+  exemple, une zone où les législateurs ont un conflit d'intérêt, tels
+  que le redécoupage ou application de règles d'éthique  
+\item Améliorer la qualité de délibération d'une initiative et le
+processus de référendum (\cite{gast12}) --- par exemple, que dans le
+processus Initiative Oregon avis.
+\item Remplacer une chambre élue par un parlement bicaméral
+\item Effectuer l'ensemble du processus législatif à la place d'une
+assemblée législative élue.
+\end{enumerate}
+C'est mon espoir que cette "conception de référence" puisse servir de
+base conceptuelle pour l'élaboration de propositions concrètes, que
+peuvent retenir une chambre législative élue et soit donc plus facile
+à mettre en oeuvre, mais qui bénéficient des nombreux avantages de ce
+modèle. On se demande ce qui aurait lieu si cette vision concurrente
+de la démocratie avait été largement connue par les Egyptiens pendant
+le printemps arabe. L'ironie du militant démocratique
+\citeauthor{ziada12} demandant un boycott d'une élection, en raison de 
+l'absence d'un candidat accpetable (\cite{ziada12}), conduit à la
+maison les limites du modèle de démocratie électorale. La démocratie
+peut-être mieux sans élections.\par
+
